@@ -1,4 +1,4 @@
-# Tiny Blog to Practice Django
+# Django Self Practice
 
 A tiny blog application based on Django, Bootstrap and SQLite.
 
