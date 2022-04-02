@@ -2,6 +2,10 @@
 
 A tiny blog application based on Django, Bootstrap and SQLite.
 
+![](https://raw.githubusercontent.com/Quakiq/tinyimages/main/img/202204012018410.png)
+
+![](https://raw.githubusercontent.com/Quakiq/tinyimages/main/img/202204012018811.png)
+
 Deploy Guide:
 
     1. Start the SQLite database server using db.sqlite3
